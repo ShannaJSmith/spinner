@@ -13,21 +13,21 @@ setTimeout(() => {
 }, 500);
 
 setTimeout(() => {
-  process.stdout.write('\r\\   '); 
+  process.stdout.write('\r\\   ');
 }, 700);
 
 setTimeout(() => {
-  process.stdout.write('\r\|   '); 
+  process.stdout.write('\r\|   ');
 }, 900);
 
 setTimeout(() => {
-  process.stdout.write('\r\/   '); 
+  process.stdout.write('\r\/   ');
 }, 1000);
 
 setTimeout(() => {
-  process.stdout.write('\r\-   '); 
+  process.stdout.write('\r\-   ');
 }, 1100);
 
 setTimeout(() => {
-  process.stdout.write('\r\\   '); 
+  process.stdout.write('\r\\   ');
 }, 1300);
